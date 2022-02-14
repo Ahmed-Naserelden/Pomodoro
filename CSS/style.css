@@ -1,0 +1,72 @@
+
+h1{
+    text-align: center;
+    color: greenyellow;
+    /*font-size: 60px;*/
+}
+body{
+    background-color: black;
+}
+span{
+    font-size: 100px;
+    background-color: black;
+    width: 250px;
+    position: relative;
+    color: red;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    margin: 0px 10px 0px 10px;
+    box-sizing:border-box;
+}
+.h{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.h{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.h{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.h{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.super{
+    position: relative;
+    top: 100px;
+}
+.sub{
+    text-align: center;
+    margin-top: 20%;
+    background-color: black;
+    border-radius: 5%;
+    width: 717px;
+    height: 112px;
+    position:relative;
+    top: -250px;
+    left: 27%;
+}
+
+button{
+    color: white;
+    background-color: black;
+    background:none;
+    border: none;
+    width: 250px;
+    text-align: center;
+    font-size: 80px;
+    position: relative;
+    left: 650px;
+    top: -100px;
+    outline: none;
+    
+}
